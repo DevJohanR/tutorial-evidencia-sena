@@ -1,0 +1,15 @@
+.headerContain{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+    border: 1px solid black;
+    border-radius: 10px;
+   
+
+}
+
+.namePage h1{
+    font-size: 20px;
+    font-weight: bolder;
+}

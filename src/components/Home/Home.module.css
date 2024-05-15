@@ -1,0 +1,42 @@
+.mainContain{
+ 
+    height: 100vh;
+    display: flex;
+    width: 100%;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px ;
+
+}
+
+
+
+.mainContain p{
+    max-width: 500px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+.mainContain ol{
+    
+    height: 250px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ font-size: 20px;
+    gap: 10px;
+
+}
+
+.mainContain li{
+    text-align: center;
+    
+    text-decoration: none;
+    list-style: none;
+  
+ 
+}
